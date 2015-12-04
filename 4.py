@@ -1,4 +1,3 @@
-
 class point:
     def __init__(self,strk='0,0'):
         self.x=float(strk[:strk.index(',')])
